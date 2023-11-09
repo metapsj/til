@@ -1,5 +1,3 @@
-# TIL
-
 > Today I Learned
 
 Example: https://github.com/jbranchaud/til
@@ -17,6 +15,7 @@ variety of languages and technologies.
 - [cutest](#cutest)
 - [direnv](#direnv)
 - [htmx](#htmx)
+- [light-dom](#light-dom)
 - [neovim](#neovim)
 - [ruby](#ruby)
 - [sqlite](#sqlite)
@@ -55,6 +54,12 @@ description
 - first
 
 ### htmx
+
+description
+
+- first
+
+### light-dom
 
 description
 
