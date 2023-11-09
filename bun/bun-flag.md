@@ -19,5 +19,5 @@ $ bun --bun run postcss assets/css/app.css -o public/css/app.css
 bunx
 
 ```shell
-$ bunx --bun my-cli
+$ bunx --bun postcss assets/css/app.css -o public/css/app.css
 ```
