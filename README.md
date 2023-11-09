@@ -26,7 +26,7 @@ variety of languages and technologies.
 
 description
 
-- [bun --bun](bun/bun-flag.md)
+- [bun --bun flag](bun/bun-flag.md)
 
 ### cuba
 
