@@ -12,6 +12,7 @@ variety of languages and technologies.
 ### Categories
 
 - [bun](#bun)
+- [bundler](#bundler)
 - [cuba](#cuba)
 - [cutest](#cutest)
 - [direnv](#direnv)
@@ -28,6 +29,12 @@ variety of languages and technologies.
 description
 
 - [bun --bun flag](bun/bun-flag.md)
+
+### bundler
+
+description
+
+- [bundler --standalone](bundler/standalone-bundle.md)
 
 ### cuba
 
