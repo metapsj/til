@@ -5,11 +5,11 @@ spin up a `node` process to execute the file. However, in some cases it may be d
 executables using Bun's runtime, even if the executable indicates otherwise. To do so, include the
 `--bun` flag.
 
+### examples using the bun and bunx executables
+
 ```shell
 $ bun --bun run postcss assets/css/app.css -o public/css/app.css
 ```
-
-or
 
 ```shell
 $ bunx --bun my-cli
