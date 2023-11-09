@@ -16,6 +16,7 @@ variety of languages and technologies.
 - [cutest](#cutest)
 - [direnv](#direnv)
 - [htmx](#htmx)
+- [neovim](#neovim)
 - [ruby](#ruby)
 - [sqlite](#sqlite)
 - [zig](#zig)
@@ -47,6 +48,12 @@ description
 - first
 
 ### htmx
+
+description
+
+- first
+
+### neovim
 
 description
 
