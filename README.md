@@ -17,7 +17,6 @@ variety of languages and technologies.
 - [htmx](#htmx)
 - [light-dom](#light-dom)
 - [neovim](#neovim)
-- [rocksdb](#rocksdb)
 - [ruby](#ruby)
 - [sqlite](#sqlite)
 - [zig](#zig)
@@ -67,12 +66,6 @@ description
 - first
 
 ### neovim
-
-description
-
-- first
-
-### rocksdb
 
 description
 
