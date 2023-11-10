@@ -4,9 +4,7 @@ A method of building web components using the Light DOM instead of the Shadow DO
 
 [Blinded By The Light Dom](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 
-Using Web Components on My Icon Galleries Websites
-
-- https://blog.jim-nielsen.com/2023/web-components-icon-galleries/
+[Using Web Components on My Icon Galleries Websites](https://blog.jim-nielsen.com/2023/web-components-icon-galleries/)
 
 Cami.js – A No Build, Web Component Based Reactive Framework
 
