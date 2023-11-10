@@ -20,6 +20,7 @@ variety of languages and technologies.
 - [duckdb](#duckdb)
 - [htmx](#htmx)
 - [light-dom](#light-dom)
+- [litestream](#litestream)
 - [neovim](#neovim)
 - [openwrt](#openwrt)
 - [pgmodeler](#pgmodeler)
@@ -83,6 +84,12 @@ description
 description
 
 - [sources](light-dom/sources.md)
+
+### litestream
+
+description
+
+- first
 
 ### neovim
 
