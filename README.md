@@ -22,7 +22,6 @@ variety of languages and technologies.
 - [neovim](#neovim)
 - [openwrt](#openwrt)
 - [pgmodeler](#pgmodeler)
-- [polars](#polars)
 - [ruby](#ruby)
 - [sqlite](#sqlite)
 - [syro](#syro)
@@ -95,12 +94,6 @@ description
 description
 
 - first
-
-### polars
-
-description
-
-- [sources](polars/sources.md)
 
 ### ruby
 
