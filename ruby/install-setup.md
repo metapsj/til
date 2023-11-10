@@ -17,7 +17,7 @@ steps
 
 ### installation
 
-install with homebrew
+install chruby and ruby-install with homebrew
 
 ```shell
 $ brew install chruby ruby-install
@@ -35,7 +35,7 @@ verify chruby has been installed
 $ chruby --version
 ```
 
-configure zsh
+configure chruby for zsh
 
 ```shell
 # ~/.zshrc
@@ -47,13 +47,13 @@ chruby ruby-3.1.0
 
 ```
 
-list available rubies
+list available rubies with ruby-install
 
 ```shell
 $ ruby-install --latest
 ```
 
-install latest ruby
+install latest ruby with ruby-install
 
 ```shell
 $ ruby-install --latest ruby
