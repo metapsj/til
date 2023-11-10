@@ -17,6 +17,7 @@ variety of languages and technologies.
 - [cuba](#cuba)
 - [cutest](#cutest)
 - [direnv](#direnv)
+- [duckdb](#duckdb)
 - [htmx](#htmx)
 - [light-dom](#light-dom)
 - [neovim](#neovim)
@@ -60,6 +61,12 @@ description
 - first
 
 ### direnv
+
+description
+
+- first
+
+### duckdb
 
 description
 
