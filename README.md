@@ -19,6 +19,7 @@ variety of languages and technologies.
 - [neovim](#neovim)
 - [ruby](#ruby)
 - [sqlite](#sqlite)
+- [syro](#syro)
 - [zig](#zig)
 
 ---
@@ -78,6 +79,12 @@ description
 - first
 
 ### sqlite
+
+description
+
+- first
+
+### syro
 
 description
 
