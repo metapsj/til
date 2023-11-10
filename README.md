@@ -33,104 +33,70 @@ variety of languages and technologies.
 
 ### arrow
 
-description
-
 - [sources](arrow/sources.md)
 
 ### bun
-
-description
 
 - [bun --bun flag](bun/bun-flag.md)
 
 ### bundler
 
-description
-
 - [bundler --standalone](bundler/standalone-bundle.md)
 
 ### cuba
 
-description
-
-- first
+- placeholder
 
 ### cutest
 
-description
-
-- first
+- placeholder
 
 ### direnv
 
-description
-
-- first
+- placeholder
 
 ### duckdb
 
-description
-
-- first
+- placeholder
 
 ### htmx
 
-description
-
-- first
+- placeholder
 
 ### light-dom
-
-description
 
 - [sources](light-dom/sources.md)
 
 ### litestream
 
-description
-
-- first
+- placeholder
 
 ### neovim
 
-description
-
-- first
+- placeholder
 
 ### openwrt
 
-description
-
-- first
+- placeholder
 
 ### pgmodeler
 
-description
-
-- first
+- placeholder
 
 ### ruby
-
-description
 
 - [install and setup](ruby/install-setup.md)
 
 ### sqlite
 
-description
-
-- first
+- placeholder
 
 ### syro
 
-description
-
-- first
+- placeholder
 
 ### zig
 
-description
-
-- first
+- placeholder
 
 ---
