@@ -74,7 +74,7 @@ $ ruby --version
 configure .envrc plugins for direnv
 
 ```shell
-# ./.envrc
+# .envrc
 
 ruby-version
 dotenv
@@ -83,7 +83,7 @@ dotenv
 configure .ruby-version for direnv
 
 ```shell
-# ./.ruby-version
+# .ruby-version
 
 ruby-3.1.0
 ```
