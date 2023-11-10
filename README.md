@@ -113,7 +113,7 @@ description
 
 description
 
-- first
+- [install and setup](ruby/install-setup.md)
 
 ### sqlite
 
