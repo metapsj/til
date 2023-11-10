@@ -20,6 +20,7 @@ variety of languages and technologies.
 - [duckdb](#duckdb)
 - [htmx](#htmx)
 - [light-dom](#light-dom)
+- [litestack](#litestack)
 - [litestream](#litestream)
 - [neovim](#neovim)
 - [openwrt](#openwrt)
@@ -66,6 +67,10 @@ variety of languages and technologies.
 ### light-dom
 
 - [sources](light-dom/sources.md)
+
+### litestack
+
+- [sources](litestack/sources.md)
 
 ### litestream
 
