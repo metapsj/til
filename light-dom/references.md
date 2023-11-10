@@ -2,9 +2,7 @@
 
 A method of building web components using the Light DOM instead of the Shadow DOM
 
-Blinded By The Light Dom
-
-- https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/
+[Blinded By The Light Dom](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 
 Using Web Components on My Icon Galleries Websites
 
