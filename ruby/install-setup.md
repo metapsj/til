@@ -71,7 +71,7 @@ verify latest ruby is installed
 $ ruby --version
 ```
 
-configure .envrc for direnv
+configure .envrc plugins for direnv
 
 ```shell
 # ./.envrc
