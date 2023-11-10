@@ -1,17 +1,17 @@
 # install and setup ruby
 
-requirements
+prerequisites
 
 - macos
 - homebrew
 
 steps
 
-- homebrew
-- chruby
-- ruby-install
-- zsh
-- direnv
+1. homebrew
+2. chruby
+3. ruby-install
+4. zsh
+5. direnv
 
 ---
 
