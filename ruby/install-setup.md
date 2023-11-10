@@ -17,7 +17,7 @@ steps
 
 ### installation
 
-install chruby and ruby-install with homebrew
+install chruby and ruby-install
 
 ```shell
 $ brew install chruby ruby-install
@@ -47,16 +47,22 @@ chruby ruby-3.1.0
 
 ```
 
-list available rubies with ruby-install
+list available rubies
 
 ```shell
 $ ruby-install --latest
 ```
 
-install latest ruby with ruby-install
+install latest ruby
 
 ```shell
 $ ruby-install --latest ruby
+```
+
+configure default ruby
+
+```shell
+$ chruby ruby-3.1.0
 ```
 
 verify latest ruby is installed
@@ -65,7 +71,24 @@ verify latest ruby is installed
 $ ruby --version
 ```
 
-configure direnv
+configure .envrc for direnv
+
+```shell
+# ./.envrc
+
+ruby-version
+dotenv
+```
+
+configure .ruby-version for direnv
+
+```shell
+# ./.ruby-version
+
+ruby-3.1.0
+```
+
+source / activate direnv configuration
 
 ```shell
 $ direnv allow
