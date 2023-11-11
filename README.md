@@ -35,7 +35,7 @@ variety of languages and technologies.
 
 ### arrow
 
-- [sources](arrow/sources.md)
+- [research](arrow/research.md)
 
 ### bun
 
@@ -67,11 +67,11 @@ variety of languages and technologies.
 
 ### light-dom
 
-- [sources](light-dom/sources.md)
+- [research](light-dom/research.md)
 
 ### litestack
 
-- [sources](litestack/sources.md)
+- [research](litestack/research.md)
 
 ### litestream
 
@@ -103,7 +103,7 @@ variety of languages and technologies.
 
 ### tailwindcss
 
-- [sources](tailwindcss/sources.md)
+- [research](tailwindcss/research.md)
 
 ### zig
 
