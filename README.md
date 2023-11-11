@@ -31,6 +31,7 @@ variety of languages and technologies.
 - [sqlite](#sqlite)
 - [syro](#syro)
 - [tailwindcss](#tailwindcss)
+- [vagrant](#vagrant)
 - [zig](#zig)
 
 ---
@@ -114,6 +115,10 @@ variety of languages and technologies.
 ### tailwindcss
 
 - [research](tailwindcss/research.md)
+
+### vagrant
+
+- placeholder
 
 ### zig
 
