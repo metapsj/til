@@ -18,6 +18,7 @@ variety of languages and technologies.
 - [cutest](#cutest)
 - [direnv](#direnv)
 - [duckdb](#duckdb)
+- [guix](#guix)
 - [htmx](#htmx)
 - [light-dom](#light-dom)
 - [litestack](#litestack)
@@ -60,6 +61,10 @@ variety of languages and technologies.
 ### duckdb
 
 - placeholder
+
+### guix
+
+- [research](guix/research.md)
 
 ### htmx
 
