@@ -20,6 +20,7 @@ variety of languages and technologies.
 - [duckdb](#duckdb)
 - [guix](#guix)
 - [htmx](#htmx)
+- [hypertext](#hypertext)
 - [light-dom](#light-dom)
 - [litestack](#litestack)
 - [litestream](#litestream)
@@ -69,6 +70,10 @@ variety of languages and technologies.
 ### htmx
 
 - placeholder
+
+### hypertext
+
+- [hypertext](hypertext/research.md)
 
 ### light-dom
 
