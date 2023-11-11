@@ -1,4 +1,4 @@
-# sources
+# research
 
 A method of building web components using the Light DOM instead of the Shadow DOM
 
