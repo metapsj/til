@@ -1,6 +1,6 @@
 # research
 
-#### hypertext
+#### Hypertext
 
 https://github.com/soveran/hypertext
 
