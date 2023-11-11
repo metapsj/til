@@ -79,7 +79,7 @@ variety of languages and technologies.
 
 ### kamal
 
-- [resources](kamal/research.md)
+- [research](kamal/research.md)
 
 ### light-dom
 
