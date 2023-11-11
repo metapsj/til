@@ -73,7 +73,7 @@ variety of languages and technologies.
 
 ### hypertext
 
-- [hypertext](hypertext/research.md)
+- [research](hypertext/research.md)
 
 ### light-dom
 
