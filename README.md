@@ -21,6 +21,7 @@ variety of languages and technologies.
 - [guix](#guix)
 - [htmx](#htmx)
 - [hypertext](#hypertext)
+- [kamal](#kamal)
 - [light-dom](#light-dom)
 - [litestack](#litestack)
 - [litestream](#litestream)
@@ -75,6 +76,10 @@ variety of languages and technologies.
 ### hypertext
 
 - [research](hypertext/research.md)
+
+### kamal
+
+- [resources](kamal/research.md)
 
 ### light-dom
 
