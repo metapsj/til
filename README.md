@@ -28,6 +28,7 @@ variety of languages and technologies.
 - [ruby](#ruby)
 - [sqlite](#sqlite)
 - [syro](#syro)
+- [tailwindcss](#tailwindcss)
 - [zig](#zig)
 
 ---
@@ -99,6 +100,10 @@ variety of languages and technologies.
 ### syro
 
 - placeholder
+
+### tailwindcss
+
+- [sources](tailwindcss/sources.md)
 
 ### zig
 
