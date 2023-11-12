@@ -68,7 +68,7 @@ variety of languages and technologies.
 
 ### ensql
 
-- [ensql](ensql/research.md)
+- [research](ensql/research.md)
 
 ### guix
 
