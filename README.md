@@ -12,6 +12,7 @@ variety of languages and technologies.
 ### Categories
 
 - [arrow](#arrow)
+- [authentication-zero](#authentication-zero)
 - [bun](#bun)
 - [bundler](#bundler)
 - [cuba](#cuba)
@@ -41,6 +42,10 @@ variety of languages and technologies.
 ### arrow
 
 - [research](arrow/research.md)
+
+### authentication-zero
+
+- [research](authentication-zero/research.md)
 
 ### bun
 
