@@ -18,6 +18,7 @@ variety of languages and technologies.
 - [cutest](#cutest)
 - [direnv](#direnv)
 - [duckdb](#duckdb)
+- [ensql](#ensql)
 - [guix](#guix)
 - [htmx](#htmx)
 - [hypertext](#hypertext)
@@ -64,6 +65,10 @@ variety of languages and technologies.
 ### duckdb
 
 - placeholder
+
+### ensql
+
+- [ensql](ensql/research.md)
 
 ### guix
 
