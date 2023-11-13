@@ -31,6 +31,7 @@ variety of languages and technologies.
 - [neovim](#neovim)
 - [openwrt](#openwrt)
 - [pgmodeler](#pgmodeler)
+- [rkms](#rkms)
 - [rodauth](#rodauth)
 - [ruby](#ruby)
 - [sqlite](#sqlite)
@@ -120,6 +121,10 @@ variety of languages and technologies.
 ### pgmodeler
 
 - placeholder
+
+### rkms
+
+- [research](rkms/research.md)
 
 ### rodauth
 
