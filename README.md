@@ -15,7 +15,7 @@ variety of languages and technologies.
 - [authentication-zero](#authentication-zero)
 - [bun](#bun)
 - [bundler](#bundler)
-- [cami.js](#cami.js)
+- [cami.js](#camijs)
 - [cuba](#cuba)
 - [cutest](#cutest)
 - [direnv](#direnv)
@@ -57,7 +57,7 @@ variety of languages and technologies.
 
 - [bundler --standalone](bundler/standalone-bundle.md)
 
-### cami.js
+### camijs
 
 - [research](camijs/research.md)
 
