@@ -33,7 +33,7 @@ bundle config build.sqlite3 --with-sqlite3-lib=$(brew --predix sqlite)/lib
 bin stub using homebrew sqlite
 
 ```shell
-# ./bin/sqlite3
+# bin/sqlite3
 
 #!/usr/bin/env sh
 
