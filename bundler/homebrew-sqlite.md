@@ -24,7 +24,7 @@ or
 gem install sqlite3 -- --with-sqlite3-dir=$(brew --prefix sqlite)/bin/sqlite3
 ```
 
-bundle config build using homebrew sqlite
+bundle build config using homebrew sqlite
 
 ```shell
 bundle config build.sqlite3 --with-sqlite3-lib=$(brew --predix sqlite)/lib
