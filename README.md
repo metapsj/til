@@ -58,6 +58,7 @@ variety of languages and technologies.
 ### bundler
 
 - [bundler --standalone](bundler/standalone-bundle.md)
+- [homebrew sqlite](bundler/homebrew-sqlite.md)
 
 ### camijs
 
