@@ -9,14 +9,17 @@ description
 ```ruby
 require 'yaml'
 
-yaml = <<~EOS
-  - first
-  - second
-  - third
-  - fourth
-EOS
+yaml = DATA.read
 
 puts YAML.load(yaml).inspect
+
+__END__
+
+- first
+- second
+- third
+- fourth
+
 ```
 
 ### array of arrays
@@ -26,53 +29,82 @@ description
 ```ruby
 require 'yaml'
 
-yaml = <<~EOS
-  -
-    - first
-    - second
-  -
-    - third
-    - fourth
-  -
-    - fifth
-    - sixth
-EOS
+yaml = DATA.read
 
 puts YAML.load(yaml).inspect
+
+__END__
+
+-
+  - first
+  - second
+-
+  - third
+  - fourth
+-
+  - fifth
+  - sixth
+
 ```
 
-### hash
+### hashmap of string keys
 
 description
 
 ```ruby
 require 'yaml'
 
-yaml = <<~EOS
-  :first: one
-  :second: two
-  :third: three
-  :fourth: four
-EOS
+yaml = DATA.read
 
 puts YAML.load(yaml).inspect
+
+__END__
+
+first: one
+second: two
+third: three
+fourth: four
+
 ```
 
-### array of hashes
+### hashmap of symbol keys
 
 description
 
 ```ruby
 require 'yaml'
 
-yaml = <<~EOS
-  - :first: one
-    :second: two
-  - :first: one
-    :second: two
-  - :first: one
-    :second: two
-EOS
+yaml = DATA.read
 
 puts YAML.load(yaml).inspect
+
+__END__
+
+:first: one
+:second: two
+:third: three
+:fourth: four
+
+```
+
+### array of hashmaps
+
+description
+
+```ruby
+require 'yaml'
+
+yaml = DATA.read
+
+puts YAML.load(yaml).inspect
+
+__END__
+
+- first: one
+  second: two
+- first: one
+  second: two
+- first: one
+  second: two
+
 ```
