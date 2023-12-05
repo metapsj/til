@@ -108,3 +108,27 @@ __END__
   second: two
 
 ```
+
+### applying defaults with aliases
+
+description
+
+```ruby
+require 'yaml'
+
+yaml = DATA.read
+
+puts YAML.load(yaml).inspect
+
+__END__
+
+default: &default
+  first: one
+  second: two
+  third: three
+
+data:
+  - <<: *default
+  - <<: *default
+
+```
