@@ -1,5 +1,9 @@
 # jsonb strict tables
 
+source: https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97
+
+### JSONB has landed
+
 I'm curious, would it be possible (or a good idea) to add JSON and JSONB datatypes
 to STRICT tables? Only int/real/text/blob/any column types are currently supported,
 but I could see a big benefit to supporting JSON/JSONB column types as well.
