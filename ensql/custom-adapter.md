@@ -1,4 +1,4 @@
-# custom adapter
+# custom adapters
 
 description
 
