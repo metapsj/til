@@ -2,6 +2,7 @@
 
 - authentication
 - authorization
+  - RBAC
 - search
 - auto-complete
 - auto-suggest
@@ -16,3 +17,6 @@
 - editor
 - drag and drop
 - tree
+- filter/sort aka mixer
+- OAuth
+- OpenID
