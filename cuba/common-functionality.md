@@ -3,7 +3,8 @@
 - authentication
 - authorization
 - search
-- autocomplete
+- auto-complete
+- auto-suggest
 - forms
 - tables
 - filter and sort
