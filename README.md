@@ -127,7 +127,7 @@ variety of languages and technologies.
 
 ### rdf-rb
 
-- [research](rdf-rb/research.md)
+- [notes](rdf-rb/notes.md)
 
 ### rkms
 
