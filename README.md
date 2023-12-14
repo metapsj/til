@@ -63,7 +63,7 @@ variety of languages and technologies.
 
 ### camijs
 
-- [research](camijs/research.md)
+- [notes](camijs/notes.md)
 
 ### cuba
 
