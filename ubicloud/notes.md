@@ -9,7 +9,7 @@ https://github.com/ubicloud/ubicloud
 
 #### elastic compute
 
-[cloud hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor])
+[cloud hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
 
 #### virtual networking
 
