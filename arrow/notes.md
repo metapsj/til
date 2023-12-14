@@ -1,4 +1,4 @@
-# research
+# notes
 
 apache arrow - a cross language development platform for in-memory analytics
 https://arrow.apache.org/
