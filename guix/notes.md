@@ -1,4 +1,6 @@
-# research
+# notes
+
+description
 
 ##### I love Arch but GNU Guix is my new Distro
 
