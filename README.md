@@ -38,6 +38,7 @@ variety of languages and technologies.
 - [sqlite](#sqlite)
 - [syro](#syro)
 - [tailwindcss](#tailwindcss)
+- [ubicloud](#ubicloud)
 - [vagrant](#vagrant)
 - [zig](#zig)
 
@@ -49,7 +50,7 @@ variety of languages and technologies.
 
 ### authentication-zero
 
-- [research](authentication-zero/research.md)
+- [notes](authentication-zero/notes.md)
 
 ### bun
 
@@ -130,7 +131,7 @@ variety of languages and technologies.
 
 ### rkms
 
-- [research](rkms/research.md)
+- [notes](rkms/notes.md)
 
 ### rodauth
 
@@ -142,7 +143,7 @@ variety of languages and technologies.
 
 ### sqlite
 
-- placeholder
+- [jsonb strict tables](sqlite/jsonb-strict-tables.md)
 
 ### syro
 
@@ -151,6 +152,10 @@ variety of languages and technologies.
 ### tailwindcss
 
 - [research](tailwindcss/research.md)
+
+### ubicloud
+
+- [notes](ubicloud/notes.md)
 
 ### vagrant
 
