@@ -151,7 +151,7 @@ variety of languages and technologies.
 
 ### tailwindcss
 
-- [research](tailwindcss/research.md)
+- [notes](tailwindcss/notes.md)
 
 ### ubicloud
 
