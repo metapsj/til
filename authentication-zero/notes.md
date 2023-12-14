@@ -1,4 +1,6 @@
-# research
+# notes
+
+description
 
 #### authentication-zero - An authentication system generator for Rails applications.
 
