@@ -83,11 +83,11 @@ variety of languages and technologies.
 
 ### ensql
 
-- [note](ensql/notes.md)
+- [notes](ensql/notes.md)
 
 ### guix
 
-- [research](guix/research.md)
+- [notes](guix/notes.md)
 
 ### htmx
 
@@ -95,19 +95,19 @@ variety of languages and technologies.
 
 ### hypertext
 
-- [research](hypertext/research.md)
+- [notes](hypertext/notes.md)
 
 ### kamal
 
-- [research](kamal/research.md)
+- [notes](kamal/notes.md)
 
 ### light-dom
 
-- [research](light-dom/research.md)
+- [notes](light-dom/notes.md)
 
 ### litestack
 
-- [research](litestack/research.md)
+- [notes](litestack/notes.md)
 
 ### litestream
 
