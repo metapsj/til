@@ -7,23 +7,23 @@ and virtual networking services in public alpha.
 
 https://github.com/ubicloud/ubicloud
 
-### Elastic Compute
+### elastic compute
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor])
+[cloud hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor])
 
-### Virtual Networking
+### virtual networking
 
-[IPSec](https://en.wikipedia.org/wiki/IPsec)
+[ipsec](https://en.wikipedia.org/wiki/IPsec)
 
-### Block Storage:
+### block storage:
 
-[Storage Performance Development Kit](https://spdk.io/)
+[storage performance development kit](https://spdk.io/)
 
-### Control Plane
+### control plane
 
-- Roda
-- Sequel
-- Rodauth
-- TailwindCSS
-- TailwindUI
-- MRSK
+- roda
+- sequel
+- rodauth
+- tailwindcss
+- tailwindui
+- mrsk
