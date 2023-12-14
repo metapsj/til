@@ -1,4 +1,6 @@
-# research
+# notes
+
+relational knowledge management system
 
 #### relational ai & julia
 
