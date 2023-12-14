@@ -15,7 +15,7 @@ https://github.com/ubicloud/ubicloud
 
 [ipsec](https://en.wikipedia.org/wiki/IPsec)
 
-### block storage:
+### block storage
 
 [storage performance development kit](https://spdk.io/)
 
