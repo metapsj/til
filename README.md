@@ -46,7 +46,7 @@ variety of languages and technologies.
 
 ### arrow
 
-- [research](arrow/research.md)
+- [notes](arrow/notes.md)
 
 ### authentication-zero
 
