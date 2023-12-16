@@ -1,6 +1,8 @@
 # notes
 
-#### ubicloud
+description
+
+### ubicloud
 
 Open, free, and portable cloud. Elastic compute, block storage (non replicated),
 and virtual networking services in public alpha.
@@ -27,3 +29,7 @@ https://github.com/ubicloud/ubicloud
 - tailwindcss
 - tailwindui
 - mrsk
+
+### fly postgres, managed by supabase
+
+https://supabase.com/blog/postgres-on-fly-by-supabase
