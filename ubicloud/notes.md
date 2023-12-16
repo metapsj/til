@@ -33,3 +33,13 @@ https://github.com/ubicloud/ubicloud
 ### fly postgres, managed by supabase
 
 https://supabase.com/blog/postgres-on-fly-by-supabase
+
+- a full-featured Postgres database with over 40+ extensions
+- pgvector support for Vector/AI workloads
+- Supavisor, our Postgres connection pooler
+- Daily backups and point-in-time recovery
+- Branching, observability, and migrations
+- A dashboard for managing your database
+- Auto-generated Data APIs:
+  - REST (using PostgREST)
+  - GraphQL (using pg_graphql)
