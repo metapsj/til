@@ -40,6 +40,7 @@ variety of languages and technologies.
 - [tailwindcss](#tailwindcss)
 - [ubicloud](#ubicloud)
 - [vagrant](#vagrant)
+- [zeromq](#zeromq)
 - [zig](#zig)
 
 ---
@@ -160,6 +161,10 @@ variety of languages and technologies.
 ### vagrant
 
 - placeholder
+
+### zeromq
+
+- [notes](zeromq/notes.md)
 
 ### zig
 
