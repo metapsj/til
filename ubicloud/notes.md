@@ -21,6 +21,8 @@ https://github.com/ubicloud/ubicloud
 
 [storage performance development kit](https://spdk.io/)
 
+[Virtual BDEVs: The Secret to Customizing SPDK](https://www.youtube.com/watch?v=s7UE0k2QUtg)
+
 #### control plane
 
 - roda
