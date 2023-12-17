@@ -21,6 +21,10 @@ https://github.com/ubicloud/ubicloud
 
 [storage performance development kit](https://spdk.io/)
 
+[SPDK: Introduction to Storage Performance Development Kit](https://blog.csdn.net/Rong_Toa/article/details/108841751)
+
+[Archive - SPDK: Introduction to SPDK](https://archive.is/2CZL0)
+
 [Virtual BDEVs: The Secret to Customizing SPDK](https://www.youtube.com/watch?v=s7UE0k2QUtg)
 
 [Data Plane Development Kit](https://www.dpdk.org/)
