@@ -26,6 +26,7 @@ variety of languages and technologies.
 - [hypertext](#hypertext)
 - [kamal](#kamal)
 - [light-dom](#light-dom)
+- [litefs](#litefs)
 - [litestack](#litestack)
 - [litestream](#litestream)
 - [neovim](#neovim)
@@ -105,6 +106,10 @@ variety of languages and technologies.
 ### light-dom
 
 - [notes](light-dom/notes.md)
+
+### litefs
+
+- [notes](litefs/notes.md)
 
 ### litestack
 
