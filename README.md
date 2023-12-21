@@ -25,6 +25,7 @@ variety of languages and technologies.
 - [htmx](#htmx)
 - [hypertext](#hypertext)
 - [kamal](#kamal)
+- [jupyter](#jupyter)
 - [light-dom](#light-dom)
 - [litefs](#litefs)
 - [litestack](#litestack)
@@ -102,6 +103,10 @@ variety of languages and technologies.
 ### kamal
 
 - [notes](kamal/notes.md)
+
+### jupyter
+
+- [notes](jupyter/notes.md)
 
 ### light-dom
 
