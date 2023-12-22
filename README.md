@@ -33,6 +33,7 @@ variety of languages and technologies.
 - [neovim](#neovim)
 - [openwrt](#openwrt)
 - [pgmodeler](#pgmodeler)
+- [quarto](#quarto)
 - [rdf-rb](#rdf-rb)
 - [rkms](#rkms)
 - [rodauth](#rodauth)
@@ -135,6 +136,10 @@ variety of languages and technologies.
 ### pgmodeler
 
 - placeholder
+
+### quarto
+
+- [notes](quarto/notes.md)
 
 ### rdf-rb
 
