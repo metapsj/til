@@ -18,6 +18,7 @@ variety of languages and technologies.
 - [cami.js](#camijs)
 - [cuba](#cuba)
 - [cutest](#cutest)
+- [degoogle](#degoogle)
 - [direnv](#direnv)
 - [duckdb](#duckdb)
 - [ensql](#ensql)
@@ -76,6 +77,10 @@ variety of languages and technologies.
 ### cutest
 
 - placeholder
+
+### degoogle
+
+- [notes](degoogle/notes.md)
 
 ### direnv
 
