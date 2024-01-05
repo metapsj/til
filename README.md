@@ -146,6 +146,7 @@ variety of languages and technologies.
 ### pickleball
 
 - [notes](pickleball/notes.md)
+- [drills](pickleball/drills.md)
 
 ### quarto
 
