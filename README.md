@@ -34,6 +34,7 @@ variety of languages and technologies.
 - [neovim](#neovim)
 - [openwrt](#openwrt)
 - [pgmodeler](#pgmodeler)
+- [pickleball](#pickleball)
 - [quarto](#quarto)
 - [rdf-rb](#rdf-rb)
 - [rkms](#rkms)
@@ -141,6 +142,10 @@ variety of languages and technologies.
 ### pgmodeler
 
 - placeholder
+
+### pickleball
+
+- [notes](pickleball/notes.md)
 
 ### quarto
 
