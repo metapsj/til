@@ -42,6 +42,7 @@ variety of languages and technologies.
 - [ruby](#ruby)
 - [sqlite](#sqlite)
 - [syro](#syro)
+- [tacoma](#tacoma)
 - [tailwindcss](#tailwindcss)
 - [ubicloud](#ubicloud)
 - [vagrant](#vagrant)
@@ -175,6 +176,10 @@ variety of languages and technologies.
 ### syro
 
 - placeholder
+
+### tacoma
+
+- [notes](tacoma/notes.md)
 
 ### tailwindcss
 
