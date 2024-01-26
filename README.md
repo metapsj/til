@@ -150,8 +150,8 @@ variety of languages and technologies.
 - [drills](pickleball/drills.md)
 - [drills/wall](pickleball/drills/wall.md)
 - [drills/two-person](pickleball/drills/two-person.md)
-- [drills/notes](pickleball/drills/notes.md)
 - [drills/tennis](pickleball/drills/tennis.md)
+- [drills/dinky kong elite academy](pickleball/drills/dink-kong-elite-academy.md)
 
 ### quarto
 
