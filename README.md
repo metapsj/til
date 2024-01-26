@@ -151,6 +151,7 @@ variety of languages and technologies.
 - [drills/wall](pickleball/drills/wall.md)
 - [drills/two-person](pickleball/drills/two-person.md)
 - [drills/notes](pickleball/drills/notes.md)
+- [drills/tennis](pickleball/drills/tennis.md)
 
 ### quarto
 
