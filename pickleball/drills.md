@@ -1,5 +1,5 @@
 # drills
 
-- [wall](wall.md)
-- [two-person](two-person.md)
-- [notes](notes.md)
+- [wall](drills/wall.md)
+- [two-person](drills/two-person.md)
+- [notes](drills/notes.md)
