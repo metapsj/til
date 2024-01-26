@@ -147,9 +147,10 @@ variety of languages and technologies.
 ### pickleball
 
 - [notes](pickleball/notes.md)
-- [wall drills](pickleball/wall-drills.md)
-- [two person drills](pickleball/two-person-drills.md)
-- [drill notes](pickleball/drill-notes.md)
+- [drills](pickleball/drills.md)
+- [drills/wall](pickleball/drills/wall.md)
+- [drills/two-person](pickleball/drills/two-person.md)
+- [drills/notes](pickleball/drills/notes.md)
 
 ### quarto
 
