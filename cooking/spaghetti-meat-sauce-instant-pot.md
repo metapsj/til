@@ -24,6 +24,7 @@ How to Cook Pasta in the Instant Pot... Al Dente
 - 1/3c tomato paste
 - 1tbsp beef better than boullion
 - 1jar/24oz rao's marinara sauce
+- 2tsp granulated sugar
 - 1jar/24oz water
 - 12oz dried spaghetti
 - 1/2c parmesan
