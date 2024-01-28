@@ -16,6 +16,7 @@ variety of languages and technologies.
 - [bun](#bun)
 - [bundler](#bundler)
 - [cami.js](#camijs)
+- [cooking](#cooking)
 - [cuba](#cuba)
 - [cutest](#cutest)
 - [degoogle](#degoogle)
@@ -71,6 +72,10 @@ variety of languages and technologies.
 ### camijs
 
 - [notes](camijs/notes.md)
+
+### cooking
+
+- [notes](cooking/notes.md)
 
 ### cuba
 
