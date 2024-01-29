@@ -1,3 +1,6 @@
 # notes
 
-description
+control = accuracy and consistency
+
+reaction time
+speed ups
