@@ -6,6 +6,8 @@ description
 
 https://www.youtube.com/watch?v=ey-YtpKukh4https://www.youtube.com/watch?v=ey-YtpKukh4
 
+- groundstroke, trap
+
 ### Pickleball Solo Wall Drills
 
 Pickleball Central with Glen Peterson
