@@ -2,16 +2,9 @@
 
 description
 
-### Develop 4.0+ Control & Feel BY YOURSELF in less than 10 minutes/day
+### Control Drills Using The Dink Master
 
-PrimeTime Pickleball with Nicole Havlicek
-
-https://www.youtube.com/watch?v=LE5viTUHHTA
-
-- Level 1: Wall, No Wall
-- Level 2: Wall, No Wall
-- Level 3: Wall, No Wall
-- Level 4: Wall, No Wall
+https://www.youtube.com/watch?v=ey-YtpKukh4https://www.youtube.com/watch?v=ey-YtpKukh4
 
 ### Pickleball Solo Wall Drills
 
@@ -21,6 +14,17 @@ https://www.youtube.com/watch?v=UWvlLrOuMUc
 
 - Soft Dinks Groundstroke Target Practice
 - Volleys Target Practice
+
+### ** Develop 4.0+ Control & Feel BY YOURSELF in less than 10 minutes/day **
+
+PrimeTime Pickleball with Nicole Havlicek
+
+https://www.youtube.com/watch?v=LE5viTUHHTA
+
+- Level 1: Wall, No Wall
+- Level 2: Wall, No Wall
+- Level 3: Wall, No Wall
+- Level 4: Wall, No Wall
 
 ### 5 hand / eye coordination drills for pickleball
 
