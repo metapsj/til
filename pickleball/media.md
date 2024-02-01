@@ -44,7 +44,9 @@ https://www.youtube.com/watch?v=8EbuXOTFTzY
 
 ### America's Pickleball Craze Has a New Winner | Next in Sports
 
-https://www.youtube.com/watch?v=hZ1hkViWirY
+- Bloomberg Originals
+- Great overview of pickleball today and where it's going.
+- https://www.youtube.com/watch?v=hZ1hkViWirY
 
 ### Boardroom CEO Rich Kleiman on pickleball venture, future of sports TV
 
