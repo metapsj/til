@@ -17,3 +17,39 @@ https://www.youtube.com/watch?v=3MCD1nqTIxA
 Entrepreneurs such as Gary Vaynerchuk and athlete celebrities like LeBron James,
 Tom Brady and Drew Brees are all flocking to the investment opportunities to get
 in on what some say is the gold rush of the sport.
+
+### Empty mall stores converted into pickleball courts
+
+https://www.youtube.com/watch?v=3mfUp4Op3RM
+
+### Founder of Largest Indoor Pickleball Facility in California & A New Affiliate Program
+
+https://www.youtube.com/watch?v=GOS0hmAIkhY
+
+### Major League Pickleball CEO: The sport 'absolutely' can be as big as tennis someday
+
+https://www.youtube.com/watch?v=-nU2WWbctgI
+
+### Kevin Durant and other celebs back growing Major League Pickleball
+
+https://www.youtube.com/watch?v=WSZUTjmrI5w
+
+### Picklemall is revamping vacant shopping malls into pickleball courts
+
+https://www.youtube.com/watch?v=CFPNzAKYwLU
+
+### Pickleball Attracts Big Investors As America’s Fastest Growing Sport
+
+https://www.youtube.com/watch?v=8EbuXOTFTzY
+
+### America's Pickleball Craze Has a New Winner | Next in Sports
+
+https://www.youtube.com/watch?v=hZ1hkViWirY
+
+### Boardroom CEO Rich Kleiman on pickleball venture, future of sports TV
+
+https://www.youtube.com/watch?v=EGR1n1NFVS0
+
+### The power of pickleball — the sport just keeps getting bigger
+
+https://www.youtube.com/shorts/vVrdRfKojHE
