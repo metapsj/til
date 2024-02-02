@@ -1,5 +1,7 @@
 # trends
 
+description
+
 ### Bend Pickleball Club - Fall 2022 Newsletter
 
 https://bendpickleballclub.com/wp-content/uploads/2022/10/2022-Fall-Newsletter_FINAL.pdf
@@ -55,3 +57,31 @@ https://www.youtube.com/watch?v=EGR1n1NFVS0
 ### The power of pickleball — the sport just keeps getting bigger
 
 https://www.youtube.com/shorts/vVrdRfKojHE
+
+### Pickleball: How to Profit off of America's Fastest Growing Sport
+
+Profluence Sports by Andrew Petcash
+
+The business of pickleball and some ideas for how to invest (and make money) during its rapid growth.
+
+https://www.petcashpost.com/p/pickleball-how-to-profit-off-of-americas
+
+- Courts / Place to Play
+- Products
+- Become a Pro Pickleball Player
+- Buy a Team
+- Pickleball Publication
+- Pickleball Content Creator
+- Trainer
+- Start a League
+- DAO, Decentralized Autonomous Organization
+- Data
+- TopGolf for Pickleball
+
+### Insights from the \$9B Racquet Sports Industry
+
+Profluence Sports by Andrew Petcash
+
+It's probably much larger...and has applicable applications to all sports. Ultimate Racquet Sports Report.
+
+https://www.petcashpost.com/p/insights-from-racquet-sports-industry
