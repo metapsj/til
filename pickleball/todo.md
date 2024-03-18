@@ -4,6 +4,8 @@ description
 
 ## skills
 
+- speed ups
+- non-dominant hand
 - forehand roll volley
 - backhand roll volley
 - forehand topspin dink
